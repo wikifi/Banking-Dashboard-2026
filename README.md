@@ -198,3 +198,4 @@ Developed as a Power BI Banking Analytics Project.
 # License
 
 This project is intended for educational and portfolio purposes.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34a52229-e13a-4ff8-a966-af55b6d5e4c3" />
